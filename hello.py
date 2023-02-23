@@ -4,3 +4,4 @@ def hello(nm):
 if __name__=='__main__':
     hello("Krushil")
     hello("Nitin")
+    hello("Dhruv")
